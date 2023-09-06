@@ -15,7 +15,7 @@ btn.direction = Direction.INPUT
 btn.pull = Pull.DOWN
 
 btn2 = DigitalInOut(board.D9)
-btn2.direction = Direction.INPUT
+btn2.direction = Direction.INPUT 
 btn2.pull = Pull.DOWN
 
 # To get the full range of the servo you will likely need to adjust the min_pulse and max_pulse to
@@ -42,7 +42,7 @@ angle = 90
 # We sleep in the loops to give the servo time to move into position.
 while True:
     if btn.value:
-        angle = angle + 1
+        angle = angle + 2
         if angle > 180:
             angle = 180
         print(angle)
@@ -50,7 +50,7 @@ while True:
         time.sleep(0.01)
         
     if btn2.value:
-        angle = angle - 1
+        angle = angle - 2
         if angle < 0:
             angle = 0
         print(angle)
