@@ -72,12 +72,13 @@ while True:
 Here is a gif made in ezgif of me sweeping the servo back and forth.
 ![ezgif com-video-to-gif](https://github.com/lwimber39/engr3/assets/143545399/11d9bf3a-7880-44f8-b4ad-d20da4ec89c7)
 
-Credit to [ezgif](https://ezgif.com/) for allowing me to make the gif.
+I used [ezgif](https://ezgif.com/) to make the gif.
 
 ### Wiring
-[tinkercad.com](https://www.tinkercad.com/learn/circuits).  If you can't find the particular part you need, get creative, and just drop a note into the circuit diagram, explaining.
-For example, I use an Arduino Uno to represent my Circuitpython device but write a note saying which board I'm actually using.
-Then post an image here.   [Here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+Here is a wiring diagram of my circuit.
+![Screenshot (1)](https://github.com/lwimber39/engr3/assets/143545399/de4af623-85b3-48fd-94f8-48b164612fab)
+
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
