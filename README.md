@@ -81,8 +81,7 @@ Here is a wiring diagram of my circuit.
 I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
-
+This assignment was pretty troublesome because I had so technical difficulties which made me have to start from scratch after getting some progress and I was still new to Circuitpython. I mainly used examples that I found online fron GitHub and the resources provided to me to learn how to code and wire the servo and buttons. This assignment has taught me how to run most basic functions in Circuitpython and how to use GitHub and find materials on it online. 
 
 ## CircuitPython_LCD
 
