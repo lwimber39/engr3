@@ -50,7 +50,6 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 ## CircuitPython_Servo
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
   The goal of this assignment was to get a servo to sweep back and forth by pressing buttons. I accomplished this by use of my prior code knowledge, asking for help, and using libraries online.
 
 Make sure to constrain your servo angle like this:
