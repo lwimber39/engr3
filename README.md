@@ -51,18 +51,22 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 
 ### Description & Code Snippets
 Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
+  The goal of this assignment was to get a servo to sweep back and forth by pressing buttons. I accomplished this by use of my prior code knowledge, asking for help, and using libraries online.
 
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
-
+Make sure to constrain your servo angle like this:
 ```python
-Code goes here
+while True:
+    if btn.value:
+        angle = angle + 2
+        if angle > 180:
+            angle = 180
+        print(angle)
+        servo.angle = angle
+        time.sleep(0.01)
 
 ```
 
-**Lastly, please end this section with a link to your code or file.**  
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/ServoButton.py)
 
 
 ### Evidence
