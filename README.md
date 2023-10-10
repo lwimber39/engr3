@@ -204,6 +204,6 @@ This is the original sketch of the part.
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This assignment was much harder that the hanger for multiple reasons. Firstly the instructions were much more complicated with multiple confusing cross sections. It also has two variants with variable that could break your whole part. Something important I learned is to make sure you thoroughly look at the instructions to make sure you don't miss any nkey parts such as how in the swing are the middle is actually extruded and not a hole.
 
 &nbsp;
