@@ -155,7 +155,7 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 
 ### Assignment Description
 
-I this assignment I made a hanger part based on schematics. I had to precisely follow the directions in order to get the proper mass.
+In this assignment I made a hanger part based on schematics. I had to precisely follow the directions in order to get the proper mass.
 
 ### Evidence
 
@@ -182,7 +182,7 @@ This assignment was overall not very difficult however there were some slight st
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+In this assignment I made a swing arm based on schematics. I had to make two variants and get the correct mass for each.
 
 ### Evidence
 
