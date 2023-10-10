@@ -151,22 +151,29 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
 
-## Onshape_Assignment_Template
+## Onshape_Hanger_Template
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+I this assignment I made a hanger part based on schematics. I had to precisely follow the directions in order to get the proper mass.
 
 ### Evidence
 
-Take several cropped screenshots of your Onshape document from different angles. Try to capture all important aspects of the design. Turn off overlays that obscure the parts, such as planes or mate connectors. Your images should have captions, so the reader knows what they are looking at!  
+![image](https://github.com/lwimber39/engr3/assets/143545399/ce5983fb-655b-4a6b-b306-6174b6d01190)
+This is the hanger from one of the top corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/70e56e66-c97b-43f6-a1c6-fcf38bda4551)
+This is the hanger from one of the bottom corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/31d20660-9db0-4682-b315-2c64af9c8277)
+This is the original sketch of the part.
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/111df3ee3bbfcd71a657e772/w/fd37c28187c700c133386fe5/e/a8050e2f6efa20835f3a326c?renderMode=0&uiState=65259f9358b9cc41d101bcc4).
 
 ### Reflection
 
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+This assignment was overall not very difficult however there were some slight struggles. One simple struggle was just the fact that I had not used Onshape in some time so I had to get back into it. Something important I learned is that when mirroring it does not continue mirroring things after the mirror is created. This means that if you part is symmetrical you should mirror as late as possible so that it mirrors most if not all of the part.
 
 &nbsp;
