@@ -187,12 +187,15 @@ In this assignment I made a swing arm based on schematics. I had to make two var
 ### Evidence
 
 ![image](https://github.com/lwimber39/engr3/assets/143545399/ee4a2d19-9fce-410e-bc7d-96fd450b8d00)
+
 This is the swing arm from one of the top corners.
 
 ![image](https://github.com/lwimber39/engr3/assets/143545399/3fca4e4e-fd96-4572-a596-f195812ce659)
+
 This is the swing arm from one of the bottom corners.
 
 ![image](https://github.com/lwimber39/engr3/assets/143545399/656bb1ed-999a-435c-b56d-aaaf5f6d1653)
+
 This is the original sketch of the part.
 
 ### Part Link 
