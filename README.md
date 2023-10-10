@@ -200,7 +200,7 @@ This is the original sketch of the part.
 
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/a75db3b22fd9a12045b6c124/w/990fe5e1c0ae326054140db8/e/a8963720870de959ef2da54c?renderMode=0&uiState=6525a65839441a63fa082bf4).
 
 ### Reflection
 
