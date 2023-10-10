@@ -151,7 +151,7 @@ Then post an image here.   [Here's a quick tutorial for all markdown code, like 
 ### Reflection
 Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
 
-## Onshape_Hanger_Template
+## Onshape_Assignment_Hanger
 
 ### Assignment Description
 
@@ -178,7 +178,7 @@ This assignment was overall not very difficult however there were some slight st
 
 &nbsp;
 
-## Onshape_Assignment_Template
+## Onshape_Assignment_Swing_Arm
 
 ### Assignment Description
 
