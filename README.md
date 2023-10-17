@@ -149,7 +149,7 @@ Make sure to use else ifs as shown here:
 
 ```
 
-**Lastly, please end this section with a link to your code or file.**  
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/TEst)
 
 ### Evidence
 
