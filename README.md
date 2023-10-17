@@ -125,18 +125,27 @@ Don't just tell the reader what went wrong or was challenging!  Describe how you
 
 
 
-## NextAssignment
+## CircuitPython_Distance_Sensor
 
 ### Description & Code Snippets
-Write a couple sentences here, describing this assignment, and make sure that you hit these two points:
-* What was the goal of the assignment?
-* How did you accomplish that goal?
-  How you accomplished the goal is NOT a reflection, it is you telling the reader how to do this assignment, in broad strokes.
+This assignment has a distance sensor and depending on the distance read it changes color from red to blue. I did this by use of help from teachers and my peers as well as previous knowledge.
 
-  Your description is the right place to draw the reader's attention to any important chunks of code. Here's how you make code look like code:
+Make sure to use else ifs as shown here:
 
 ```python
-Code goes here
+        if dist < 5:
+            pixels.fill((255, 0,0))
+            pixels.show()
+        elif dist > 5 and dist < 20:
+            pixels.fill((255, 0, (dist - 5 / 15 * 255)))
+            pixels.show()
+        elif dist > 20 and dist < 35:
+            pixels.fill((255-(dist - 5 / 15 * 255), 0, 255))
+            pixels.show()
+        elif dist > 35:
+            print(">35")
+            pixels.fill((0, 0, 255))
+            pixels.show()   
 
 ```
 
