@@ -123,7 +123,7 @@ Here is a wiring diagram of my circuit.
 I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
 
 ### Reflection
-Don't just tell the reader what went wrong or was challenging!  Describe how you figured it out, share the things that helped you succeed (tutorials, other people's repos, etc.), and then share what you learned from that experience.  **Your underlying goal for the reflection, is to concisely pass on the RIGHT knowledge that will help the reader recreate this assignment better or more easily.  Pass on your wisdom!**
+This assignment was particilarly challenging due to some technical difficulties which I still cannot explain. I got help from the teachers and my classmates with fixing the problem however it was Joshua who ended up fixing it somehow. I also had some problems regarding the neopixel itself as mine is unable to display green so I had to change it from going from red to green with blue in between to going from red to blue with violet in between. This assignment helped me get more used to CircuitPython and reminded me that I need to be very careful on how I do everything.
 
 ## Onshape_Assignment_Hanger
 
