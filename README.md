@@ -192,11 +192,11 @@ In this assignment I followed instructions to create multiple parts that all fit
 
 ![image](https://github.com/lwimber39/engr3/assets/143545399/a6c20807-ff55-435d-bf5b-df98b557ac43)
 
-This is the swing arm from one of the top corners.
+This is the final studio from one of the top corners.
 
 ![image](https://github.com/lwimber39/engr3/assets/143545399/3bad8ec6-6ad7-4953-ba16-aca97f4a3ea0)
 
-This is the swing arm from one of the bottom corners.
+This is the final studio from one of the bottom corners.
 
 ![image](https://github.com/lwimber39/engr3/assets/143545399/805e6c49-7a2c-43b7-8421-27c28aa4f600)
 
@@ -204,7 +204,7 @@ This is a sketch that I used to make a revolve cut in the top cap.
 
 ### Part Link 
 
-[Link to my Onshape document](https://cvilleschools.onshape.com/documents/a75db3b22fd9a12045b6c124/w/990fe5e1c0ae326054140db8/e/a8963720870de959ef2da54c?renderMode=0&uiState=6525a65839441a63fa082bf4).
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/61ad1ade7aa47242eb881324/w/200fe19712c06dc9ed2e4c11/e/6c05e63ae34996a2fdeb11c1?renderMode=0&uiState=653abe0bdaecb51902d29313).
 
 ### Reflection
 
