@@ -181,3 +181,33 @@ This is the original sketch of the part.
 This assignment was much harder that the hanger for multiple reasons. Firstly the instructions were much more complicated with multiple confusing cross sections. It also has two variants with variable that could break your whole part. Something important I learned is to make sure you thoroughly look at the instructions to make sure you don't miss any nkey parts such as how in the swing are the middle is actually extruded and not a hole.
 
 &nbsp;
+
+## Onshape_Assignment_Multi-Part_Cylinder
+
+### Assignment Description
+
+In this assignment I followed instructions to create multiple parts that all fit together in a specific way. After that I had to change certain parts of it to test if I had created the parts in an acceptable way.
+
+### Evidence
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/a6c20807-ff55-435d-bf5b-df98b557ac43)
+
+This is the swing arm from one of the top corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/3bad8ec6-6ad7-4953-ba16-aca97f4a3ea0)
+
+This is the swing arm from one of the bottom corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/805e6c49-7a2c-43b7-8421-27c28aa4f600)
+
+This is a sketch that I used to make a revolve cut in the top cap.
+
+### Part Link 
+
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/a75db3b22fd9a12045b6c124/w/990fe5e1c0ae326054140db8/e/a8963720870de959ef2da54c?renderMode=0&uiState=6525a65839441a63fa082bf4).
+
+### Reflection
+
+This assignment was much harder that the hanger for multiple reasons. Firstly the instructions were much more complicated with multiple confusing cross sections. It also has two variants with variable that could break your whole part. Something important I learned is to make sure you thoroughly look at the instructions to make sure you don't miss any nkey parts such as how in the swing are the middle is actually extruded and not a hole.
+
+&nbsp;
