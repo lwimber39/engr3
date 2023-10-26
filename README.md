@@ -208,6 +208,6 @@ This is a sketch that I used to make a revolve cut in the top cap.
 
 ### Reflection
 
-This assignment was much harder that the hanger for multiple reasons. Firstly the instructions were much more complicated with multiple confusing cross sections. It also has two variants with variable that could break your whole part. Something important I learned is to make sure you thoroughly look at the instructions to make sure you don't miss any nkey parts such as how in the swing are the middle is actually extruded and not a hole.
+This assignment was somewhat tricky because it has multiple interacting parts however most of them were relatively simple. One obstacle that seemed difficult but really wan't was making the bolts always stick out from the top and bottom caps by 15 millimeters because all it took was using an up to face extrude and two ofsets. One thing that I missed was at the end when the cylinder switched materials and I didn't notice so making sure to check anything that may have changed from one diagram to the next is important.
 
 &nbsp;
