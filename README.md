@@ -238,6 +238,6 @@ This is the initial sketch I used to design the main outline of the V-block.
 
 ### Reflection
 
-This assignment was somewhat tricky because it has multiple interacting parts however most of them were relatively simple. One obstacle that seemed difficult but really wan't was making the bolts always stick out from the top and bottom caps by 15 millimeters because all it took was using an up to face extrude and two ofsets. One thing that I missed was at the end when the cylinder switched materials and I didn't notice so making sure to check anything that may have changed from one diagram to the next is important.
+This assignment was really not very hard considering I have already done things similar to it and it had no confusing angles or section views. I did learn something from it, although it didn't end up being useful in this assignment, which is that you can make versions for anything that has more than one question where you have to change variables, so you can easily go back if anything fails.
 
 &nbsp;
