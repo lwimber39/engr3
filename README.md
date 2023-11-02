@@ -234,7 +234,7 @@ This is the initial sketch I used to design the main outline of the V-block.
 
 ### Part Link 
 
-[Link to my Onshape document](https://cvilleschools.onshape.com/documents/d9ddee7dac063bd730464108/w/e18bb8e7b271bf53d49d30fa/e/8faf3f2c078c19e059fec293?renderMode=0&uiState=6543f9c8b9ea18220db39906).
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/d9ddee7dac063bd730464108/w/e18bb8e7b271bf53d49d30fa/e/8faf3f2c078c19e059fec293?renderMode=0&uiState=6543f9c8b9ea18220db39906) (link may lead to 403 forbidden error. If so just copy the link adress).
 
 ### Reflection
 
