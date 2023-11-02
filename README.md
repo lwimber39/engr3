@@ -211,3 +211,33 @@ This is a sketch that I used to make a revolve cut in the top cap.
 This assignment was somewhat tricky because it has multiple interacting parts however most of them were relatively simple. One obstacle that seemed difficult but really wan't was making the bolts always stick out from the top and bottom caps by 15 millimeters because all it took was using an up to face extrude and two ofsets. One thing that I missed was at the end when the cylinder switched materials and I didn't notice so making sure to check anything that may have changed from one diagram to the next is important.
 
 &nbsp;
+
+## Onshape_Assignment_Single_Part_V-Block
+
+### Assignment Description
+
+In this assignment I followed instructions to create a V-block and edit some dimensions to see if I made it properly.
+
+### Evidence
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/d36213ba-8a8b-41c2-8fca-ae3e6824c295)
+
+This is the final version of the V-block from one of the top corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/2a3541bc-b6e5-4499-9d4f-5fac085a1c28)
+
+This is the final version of the V-block from one of the bottom corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/7d5d241b-5438-4962-9ede-57fcee3804d2)
+
+This is the initial sketch I used to design the main outline of the V-block.
+
+### Part Link 
+
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/d9ddee7dac063bd730464108/w/e18bb8e7b271bf53d49d30fa/e/8faf3f2c078c19e059fec293?renderMode=0&uiState=6543f9c8b9ea18220db39906).
+
+### Reflection
+
+This assignment was somewhat tricky because it has multiple interacting parts however most of them were relatively simple. One obstacle that seemed difficult but really wan't was making the bolts always stick out from the top and bottom caps by 15 millimeters because all it took was using an up to face extrude and two ofsets. One thing that I missed was at the end when the cylinder switched materials and I didn't notice so making sure to check anything that may have changed from one diagram to the next is important.
+
+&nbsp;
