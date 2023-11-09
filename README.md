@@ -241,3 +241,33 @@ This is the initial sketch I used to design the main outline of the V-block.
 This assignment was really not very hard considering I have already done things similar to it and it had no confusing angles or section views. I did learn something from it, although it didn't end up being useful in this assignment, which is that you can make versions for anything that has more than one question where you have to change variables, so you can easily go back if anything fails.
 
 &nbsp;
+
+## Onshape_CAD_Challenge_Alignment_Plate
+
+### Assignment Description
+
+In this assignment I used the CAD challenges Onshape app to use a diagram to create an alignment plate. I was also judged on time taken to complete the part and how many features I used to create it, and compared to how others performed.
+
+### Evidence
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/7c944fab-974e-485f-b83d-45f4d06eb9d7)
+
+This is the alignment plate from one of the top corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/7c2b8b65-f264-4b2a-b6c9-c90187ed8f72)
+
+This is the alignment plate from one of the bottom corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/65268799-301c-450d-9bc0-b37d5451b452)
+
+This is the only sketch I used.
+
+### Part Link 
+
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/5e20a104017bfa7c51f03cc3/w/66a58d9fedb3d3ea308eb65a/e/5ea22348d5bb8b2427847207?renderMode=0&uiState=654d43deceb0b07951fbdc4c).
+
+### Reflection
+
+This assignment was extremely easy since it only took 3 features (could be 2 if you made the chamfer lines in the sketch) and I completed it in 7 minutes and 24 seconds even while looking over my work. I didn't really learn anything since I only used a sketch, extrude, and chamfer, but I don't use chamfers much so some practice couldn't hurt. 
+
+&nbsp;
