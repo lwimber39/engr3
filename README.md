@@ -271,3 +271,33 @@ This is the only sketch I used.
 This assignment was extremely easy since it only took 3 features (could be 2 if you made the chamfer lines in the sketch) and I completed it in 7 minutes and 24 seconds even while looking over my work. I didn't really learn anything since I only used a sketch, extrude, and chamfer, but I don't use chamfers much so some practice couldn't hurt. 
 
 &nbsp;
+
+## Onshape_Assignment_Multi-Part_Mic_Stand
+
+### Assignment Description
+
+In this assignment I followed instructions to create a mic stand with multiple versions and an assembly to insert a screw.
+
+### Evidence
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/446f3657-da8f-498c-8fe4-7cadae880deb)
+
+This is the final version of the mic stand from one of the top corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/3948b59c-6107-4933-a4fa-8782f554843f)
+
+This is the final version of the mic stand from one of the bottom corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/ad2af5ce-b3e0-4aa4-9fb9-6a4970c7e3c7)
+
+This is the sketch I used to make part of the mic holder.
+
+### Part Link 
+
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/26ba9313acc0d872aa5ccbe5/w/2a44363d6219e183d5812431/e/4411ac9dd478d07ed325a1b9?renderMode=0&uiState=654e92975ca28861232480af).
+
+### Reflection
+
+This assignment was somewhat difficult because it contained multiple parts, however none of them were super complicated. I did come across some trouble when trying to make a curve in the mic holder the same thickness all the way. To solve this you have to subtract the thickness you want from the outer curve's radius to get the inner curve's radius.
+
+&nbsp;
