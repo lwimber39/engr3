@@ -212,7 +212,7 @@ This assignment was somewhat tricky because it has multiple interacting parts ho
 
 &nbsp;
 
-## Onshape_Assignment_Single_Part_V-Block
+## Onshape_Assignment_Single-Part_V-Block
 
 ### Assignment Description
 
@@ -291,6 +291,36 @@ This is the final version of the mic stand from one of the bottom corners.
 ![image](https://github.com/lwimber39/engr3/assets/143545399/ad2af5ce-b3e0-4aa4-9fb9-6a4970c7e3c7)
 
 This is the sketch I used to make part of the mic holder.
+
+### Part Link 
+
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/26ba9313acc0d872aa5ccbe5/w/2a44363d6219e183d5812431/e/4411ac9dd478d07ed325a1b9?renderMode=0&uiState=654e92975ca28861232480af).
+
+### Reflection
+
+This assignment was somewhat difficult because it contained multiple parts, however none of them were super complicated. I did come across some trouble when trying to make a curve in the mic holder the same thickness all the way. To solve this you have to subtract the thickness you want from the outer curve's radius to get the inner curve's radius.
+
+&nbsp;
+
+## Onshape_Assignment_Assemblies_Locking_Pliers
+
+### Assignment Description
+
+In this assignment I followed instructions to put together pliers in an assemblies with multiple orientations to gather measurements.
+
+### Evidence
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/d237dd6b-61ad-4c78-b25e-b59c906599ba)
+
+These are the pliers from one of the top corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/ef0f0ddf-3eaf-4cc1-ac5b-eaed99507bb6)
+
+These are the pliers from one of the bottom corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/5cd14cb7-b8a6-4dc4-ac94-e3eb773b0da1)
+
+This shows the offset I used for the mate between the top handle and the screw.
 
 ### Part Link 
 
