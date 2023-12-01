@@ -328,6 +328,6 @@ This shows the offset I used for the mate between the top handle and the screw.
 
 ### Reflection
 
-This assignment was somewhat difficult because it contained multiple parts, however none of them were super complicated. I did come across some trouble when trying to make a curve in the mic holder the same thickness all the way. To solve this you have to subtract the thickness you want from the outer curve's radius to get the inner curve's radius.
+This assignment was pretty easy overall because it was only in an assembly. It was a little difficult because I am not super used to the types of mates but it was nothing very complicated. One issue was with the parallel mate because some things can be parallel in multiple positions so you should keep in mind that you may have to move the parts to be in a position close to where you want it before you do the mate.
 
 &nbsp;
