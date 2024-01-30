@@ -20,14 +20,6 @@ for coil in coils:
 
 motor = stepper.StepperMotor(coils[0], coils[1], coils[2], coils[3], microsteps=None)
 
-for step in range(STEPS):
-    motor.onestep(style=stepper.DOUBLE)
-    time.sleep(DELAY)
-
-for step in range(STEPS):
-    motor.onestep(direction=stepper.BACKWARD, style=stepper.DOUBLE)
-    time.sleep(DELAY)
-
 async def catch_pin_transitions(pin):
     with keypad.Keys((pin,), value_when_pressed=False) as keys:
         while True:
@@ -35,6 +27,22 @@ async def catch_pin_transitions(pin):
             if event:
                 if event.pressed:
                     print("Limit Switch was pressed.")
+                    for step in range(STEPS):
+                        motor.onestep(direction=stepper.BACKWARD, style=stepper.DOUBLE)
+                        time.sleep(DELAY)
                 elif event.released:
                     print("Limit Switch was released.")
             await asyncio.sleep(0)
+
+async def run_motor():
+    while(True):
+        for step in range(STEPS):
+            motor.onestep(style=stepper.DOUBLE)
+            time.sleep(DELAY)
+        await asyncio.sleep(0)
+
+async def main():
+    interrupt_task = asyncio.create_task(catch_pin_transitions(board.D2))
+    motor_task = asyncio.create_task(run_motor())
+    await asyncio.gather(interrupt_task, motor_task)
+asyncio.run(main())
