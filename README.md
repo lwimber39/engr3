@@ -364,4 +364,4 @@ Here is a wiring diagram of my circuit.
 I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The motor is a replacement for the rotary encoder because Tinkercad does not have one.
 
 ### Reflection
-This assignment was pretty troublesome because I had so technical difficulties which made me have to start from scratch after getting some progress and I was still new to Circuitpython. I mainly used examples that I found online fron GitHub and the resources provided to me to learn how to code and wire the servo and buttons. This assignment has taught me how to run most basic functions in Circuitpython and how to use GitHub and find materials on it online. 
+This assignment was a little rough because I was getting back into CircuitPython and it was somewhat complex. I got stuck for a little because I didn't know that the LCD draws too much power which can prevent the board from properly connecting, so you should make sure to unplug the LCD and only plug it back in after the board connects. I mainly used help from my teacher and peers, but overall once I understood the first parts it became pretty easy.
