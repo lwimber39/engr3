@@ -331,3 +331,37 @@ This shows the offset I used for the mate between the top handle and the screw.
 This assignment was pretty easy overall because it was only in an assembly. It was a little difficult because I am not super used to the types of mates but it was nothing very complicated. One issue was with the parallel mate because some things can be parallel in multiple positions so you should keep in mind that you may have to move the parts to be in a position close to where you want it before you do the mate.
 
 &nbsp;
+
+## CircuitPython_Rotary_Encoder
+
+### Description & Code Snippets
+  The goal of this assignment was to get a LCD screen to display a menu with options that can be scrolled through and selected with a rotary encoder and have the neopixel react to it.
+
+Make sure to print blank lines inbetween readings to clear the display like this:
+```python
+ lcd.set_cursor_pos(0,0)
+    lcd.print("Push For: ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print("          ")
+    lcd.set_cursor_pos(1,0)
+    lcd.print(menu[menu_index_lcd])
+
+```
+
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/RotaryEncoder?scrlybrkr=8b87b4e9)
+
+
+### Evidence!
+Here is a gif made of me scrolling through each menu and selecting them.
+![ezgif com-video-to-gif-converter](https://github.com/lwimber39/engr3/assets/143545399/309f3dbd-c531-4eb4-8839-1640a45115be)
+
+I used [ezgif](https://ezgif.com/) to make the gif.
+
+### Wiring
+Here is a wiring diagram of my circuit.
+![Screenshot (1)](https://github.com/lwimber39/engr3/assets/143545399/de4af623-85b3-48fd-94f8-48b164612fab)
+
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
+
+### Reflection
+This assignment was pretty troublesome because I had so technical difficulties which made me have to start from scratch after getting some progress and I was still new to Circuitpython. I mainly used examples that I found online fron GitHub and the resources provided to me to learn how to code and wire the servo and buttons. This assignment has taught me how to run most basic functions in Circuitpython and how to use GitHub and find materials on it online. 
