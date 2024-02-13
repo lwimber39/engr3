@@ -335,11 +335,11 @@ This assignment was pretty easy overall because it was only in an assembly. It w
 ## CircuitPython_Rotary_Encoder
 
 ### Description & Code Snippets
-  The goal of this assignment was to get a LCD screen to display a menu with options that can be scrolled through and selected with a rotary encoder and have the neopixel react to it.
+  The goal of this assignment was to get an LCD screen to display a menu with options that can be scrolled through and selected with a rotary encoder and have the neopixel react to it.
 
 Make sure to print blank lines inbetween readings to clear the display like this:
 ```python
- lcd.set_cursor_pos(0,0)
+    lcd.set_cursor_pos(0,0)
     lcd.print("Push For: ")
     lcd.set_cursor_pos(1,0)
     lcd.print("          ")
@@ -349,6 +349,37 @@ Make sure to print blank lines inbetween readings to clear the display like this
 ```
 
 [**Link to my code**](https://github.com/lwimber39/engr3/blob/main/RotaryEncoder?scrlybrkr=8b87b4e9)
+
+
+### Evidence!
+Here is a gif made of me scrolling through each menu and selecting them.
+![ezgif com-video-to-gif-converter](https://github.com/lwimber39/engr3/assets/143545399/309f3dbd-c531-4eb4-8839-1640a45115be)
+
+I used [ezgif](https://ezgif.com/) to make the gif.
+
+### Wiring
+Here is a wiring diagram of my circuit.
+![image](https://github.com/lwimber39/engr3/assets/143545399/033e1392-a3cb-4d64-bbff-48c77334c1b1)
+
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The motor is a replacement for the rotary encoder because Tinkercad does not have one.
+
+### Reflection
+This assignment was a little rough because I was getting back into CircuitPython and it was somewhat complex. I got stuck for a little because I didn't know that the LCD draws too much power which can prevent the board from properly connecting, so you should make sure to unplug the LCD and only plug it back in after the board connects. I mainly used help from my teacher and peers, but overall once I understood the first parts it became pretty easy.
+
+## CircuitPython_Photointerrupter
+
+### Description & Code Snippets
+  The goal of this assignment was to get an LCD screen to display the number of times the photointerrupter has been interrupted and update every few seconds.
+
+Make sure to set the cursor back to the same place when updating the number of interrupts like this:
+```python
+    lcd.set_cursor_pos(1,13)
+    lcd.print(str(interrupt_counter))
+    now = time.monotonic()
+
+```
+
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/Photointerrupter.py)
 
 
 ### Evidence!
