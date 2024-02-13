@@ -359,9 +359,9 @@ I used [ezgif](https://ezgif.com/) to make the gif.
 
 ### Wiring
 Here is a wiring diagram of my circuit.
-![Screenshot (1)](https://github.com/lwimber39/engr3/assets/143545399/de4af623-85b3-48fd-94f8-48b164612fab)
+![image](https://github.com/lwimber39/engr3/assets/143545399/033e1392-a3cb-4d64-bbff-48c77334c1b1)
 
-I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The motor is a replacement for the rotary encoder because Tinkercad does not have one.
 
 ### Reflection
 This assignment was pretty troublesome because I had so technical difficulties which made me have to start from scratch after getting some progress and I was still new to Circuitpython. I mainly used examples that I found online fron GitHub and the resources provided to me to learn how to code and wire the servo and buttons. This assignment has taught me how to run most basic functions in Circuitpython and how to use GitHub and find materials on it online. 
