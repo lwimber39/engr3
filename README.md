@@ -396,3 +396,34 @@ I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The temperat
 
 ### Reflection
 This assignment was fairly easy becuse it built off the last one and used parts I was familiar with. The way you check for if the photointerrupter is interrupted is the same as any input such as the rotary encoder's button. I didn't need much help for this but something to remember is to always check that your LCD setup uses the correct code because it can be different for separate LCDs.
+
+## CircuitPython_Stepper_Motor
+
+### Description & Code Snippets
+  The goal of this assignment was to get an LCD screen to display the number of times the photointerrupter has been interrupted and update every few seconds.
+
+Make sure to set the cursor back to the same place when updating the number of interrupts like this:
+```python
+    lcd.set_cursor_pos(1,13)
+    lcd.print(str(interrupt_counter))
+    now = time.monotonic()
+
+```
+
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/Photointerrupter.py)
+
+
+### Evidence!
+Here is a gif I made of me interrupting the photointerrupter and the counter going up by one.
+![photointvid-ezgif com-video-to-gif-converter](https://github.com/lwimber39/engr3/assets/143545399/9bf5ee6c-b01d-4a7d-b8a6-8cb07a35d6a8)
+
+I used [ezgif](https://ezgif.com/) to make the gif.
+
+### Wiring
+Here is a wiring diagram of my circuit.
+![image](https://github.com/lwimber39/engr3/assets/143545399/cf3f8a93-0c8d-4979-9c3e-c341e1b0a052)
+
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The temperature sensor is a replacement for the photointerrupter because Tinkercad does not have one.
+
+### Reflection
+This assignment was fairly easy becuse it built off the last one and used parts I was familiar with. The way you check for if the photointerrupter is interrupted is the same as any input such as the rotary encoder's button. I didn't need much help for this but something to remember is to always check that your LCD setup uses the correct code because it can be different for separate LCDs.
