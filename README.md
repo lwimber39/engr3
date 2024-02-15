@@ -395,4 +395,4 @@ Here is a wiring diagram of my circuit.
 I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The temperature sensor is a replacement for the photointerrupter because Tinkercad does not have one.
 
 ### Reflection
-This assignment was a little rough because I was getting back into CircuitPython and it was somewhat complex. I got stuck for a little because I didn't know that the LCD draws too much power which can prevent the board from properly connecting, so you should make sure to unplug the LCD and only plug it back in after the board connects. I mainly used help from my teacher and peers, but overall once I understood the first parts it became pretty easy.
+This assignment was fairly easy becuse it built off the last one and used parts I was familiar with. The way you check for if the photointerrupter is interrupted is the same as any input such as the rotary encoder's button. I didn't need much help for this but something to remember is to always check that your LCD setup uses the correct code because it can be different for separate LCDs.
