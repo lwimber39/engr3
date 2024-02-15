@@ -352,7 +352,7 @@ Make sure to print blank lines inbetween readings to clear the display like this
 
 
 ### Evidence!
-Here is a gif made of me scrolling through each menu and selecting them.
+Here is a gif I made of me scrolling through each menu and selecting them.
 ![ezgif com-video-to-gif-converter](https://github.com/lwimber39/engr3/assets/143545399/309f3dbd-c531-4eb4-8839-1640a45115be)
 
 I used [ezgif](https://ezgif.com/) to make the gif.
@@ -383,8 +383,8 @@ Make sure to set the cursor back to the same place when updating the number of i
 
 
 ### Evidence!
-Here is a gif made of me scrolling through each menu and selecting them.
-![ezgif com-video-to-gif-converter](https://github.com/lwimber39/engr3/assets/143545399/309f3dbd-c531-4eb4-8839-1640a45115be)
+Here is a gif I made of me interrupting the photointerrupter and the counter going up by one.
+![photointvid-ezgif com-video-to-gif-converter](https://github.com/lwimber39/engr3/assets/143545399/9bf5ee6c-b01d-4a7d-b8a6-8cb07a35d6a8)
 
 I used [ezgif](https://ezgif.com/) to make the gif.
 
