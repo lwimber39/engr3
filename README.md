@@ -390,9 +390,9 @@ I used [ezgif](https://ezgif.com/) to make the gif.
 
 ### Wiring
 Here is a wiring diagram of my circuit.
-![image](https://github.com/lwimber39/engr3/assets/143545399/033e1392-a3cb-4d64-bbff-48c77334c1b1)
+![image](https://github.com/lwimber39/engr3/assets/143545399/cf3f8a93-0c8d-4979-9c3e-c341e1b0a052)
 
-I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The motor is a replacement for the rotary encoder because Tinkercad does not have one.
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The temperature sensor is a replacement for the photointerrupter because Tinkercad does not have one.
 
 ### Reflection
 This assignment was a little rough because I was getting back into CircuitPython and it was somewhat complex. I got stuck for a little because I didn't know that the LCD draws too much power which can prevent the board from properly connecting, so you should make sure to unplug the LCD and only plug it back in after the board connects. I mainly used help from my teacher and peers, but overall once I understood the first parts it became pretty easy.
