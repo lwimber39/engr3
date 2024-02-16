@@ -400,17 +400,26 @@ This assignment was fairly easy becuse it built off the last one and used parts 
 ## CircuitPython_Stepper_Motor
 
 ### Description & Code Snippets
-  The goal of this assignment was to get an LCD screen to display the number of times the photointerrupter has been interrupted and update every few seconds.
+  The goal of this assignment was to get a stepper motor to rotate continuously and rotate 180 degrees the other way when a limit switch is pressed.
 
-Make sure to set the cursor back to the same place when updating the number of interrupts like this:
+Make sure to define run_motor before using it like this:
 ```python
-    lcd.set_cursor_pos(1,13)
-    lcd.print(str(interrupt_counter))
-    now = time.monotonic()
+async def run_motor():
+    while(True):
+        for step in range(STEPS):
+            motor.onestep(style=stepper.DOUBLE)
+            time.sleep(DELAY)
+        await asyncio.sleep(0)
+
+async def main():
+    interrupt_task = asyncio.create_task(catch_pin_transitions(board.D2))
+    motor_task = asyncio.create_task(run_motor())
+    await asyncio.gather(interrupt_task, motor_task)
+asyncio.run(main())
 
 ```
 
-[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/Photointerrupter.py)
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/StepperMotot.py)
 
 
 ### Evidence!
