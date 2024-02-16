@@ -421,9 +421,9 @@ I used [ezgif](https://ezgif.com/) to make the gif.
 
 ### Wiring
 Here is a wiring diagram of my circuit.
-![image](https://github.com/lwimber39/engr3/assets/143545399/cf3f8a93-0c8d-4979-9c3e-c341e1b0a052)
+![image](https://github.com/lwimber39/engr3/assets/143545399/bae6c473-334d-4780-9a9d-6e72ac2bb94f)
 
-I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The temperature sensor is a replacement for the photointerrupter because Tinkercad does not have one.
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The DC motor is a replacement for the stepper motor and the slide switch is a replacement for the limit switch because Tinkercad does not have them.
 
 ### Reflection
 This assignment was fairly easy becuse it built off the last one and used parts I was familiar with. The way you check for if the photointerrupter is interrupted is the same as any input such as the rotary encoder's button. I didn't need much help for this but something to remember is to always check that your LCD setup uses the correct code because it can be different for separate LCDs.
