@@ -414,8 +414,8 @@ Make sure to set the cursor back to the same place when updating the number of i
 
 
 ### Evidence!
-Here is a gif I made of me interrupting the photointerrupter and the counter going up by one.
-![photointvid-ezgif com-video-to-gif-converter](https://github.com/lwimber39/engr3/assets/143545399/9bf5ee6c-b01d-4a7d-b8a6-8cb07a35d6a8)
+Here is a gif I made of me pressing the switch and the motor switching directions.
+![ezgif com-video-to-gif-converter (1)](https://github.com/lwimber39/engr3/assets/143545399/a7f77728-8639-44a0-951f-edbff7e5a8e2)
 
 I used [ezgif](https://ezgif.com/) to make the gif.
 
