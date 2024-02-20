@@ -463,8 +463,8 @@ asyncio.run(main())
 
 
 ### Evidence!
-Here is a gif I made of me pressing the switch and the motor switching directions.
-![ezgif com-video-to-gif-converter (1)](https://github.com/lwimber39/engr3/assets/143545399/a7f77728-8639-44a0-951f-edbff7e5a8e2)
+Here is a gif I made of me interrupting the sensor and the neopixel switching from green to red.
+![ezgif com-video-to-gif-converter (2)](https://github.com/lwimber39/engr3/assets/143545399/c63ba1a3-61a3-4299-aa5d-97ac95190aae)
 
 I used [ezgif](https://ezgif.com/) to make the gif.
 
