@@ -440,7 +440,7 @@ This assignment was a litte tricky because I hadn't used a stepper motor and som
 ## CircuitPython_Infared_Sensor
 
 ### Description & Code Snippets
-  The goal of this assignment was to get a stepper motor to rotate continuously and rotate 180 degrees the other way when a limit switch is pressed.
+  The goal of this assignment was to get the neopixel to be either red or greem depending on whether the infared sensor is blocked or not respectively.
 
 Make sure to define run_motor before using it like this:
 ```python
