@@ -436,3 +436,43 @@ I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The DC motor
 
 ### Reflection
 This assignment was a litte tricky because I hadn't used a stepper motor and some of the instructions were a little unclear. I used the slides and asked for help when I need it, but experimenting was the most helpful strategy. The main thing I strugled with was figuring out how to make the motor move in different directions and continuously but everything else was pretty easy after that.
+
+## CircuitPython_Infared_Sensor
+
+### Description & Code Snippets
+  The goal of this assignment was to get a stepper motor to rotate continuously and rotate 180 degrees the other way when a limit switch is pressed.
+
+Make sure to define run_motor before using it like this:
+```python
+async def run_motor():
+    while(True):
+        for step in range(STEPS):
+            motor.onestep(style=stepper.DOUBLE)
+            time.sleep(DELAY)
+        await asyncio.sleep(0)
+
+async def main():
+    interrupt_task = asyncio.create_task(catch_pin_transitions(board.D2))
+    motor_task = asyncio.create_task(run_motor())
+    await asyncio.gather(interrupt_task, motor_task)
+asyncio.run(main())
+
+```
+
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/StepperMotot.py)
+
+
+### Evidence!
+Here is a gif I made of me pressing the switch and the motor switching directions.
+![ezgif com-video-to-gif-converter (1)](https://github.com/lwimber39/engr3/assets/143545399/a7f77728-8639-44a0-951f-edbff7e5a8e2)
+
+I used [ezgif](https://ezgif.com/) to make the gif.
+
+### Wiring
+Here is a wiring diagram of my circuit.
+![image](https://github.com/lwimber39/engr3/assets/143545399/7a4671f8-4cf6-4e1c-9d9d-8aa47dcd6ac6)
+
+I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
+
+### Reflection
+This assignment was a litte tricky because I hadn't used a stepper motor and some of the instructions were a little unclear. I used the slides and asked for help when I need it, but experimenting was the most helpful strategy. The main thing I strugled with was figuring out how to make the motor move in different directions and continuously but everything else was pretty easy after that.
