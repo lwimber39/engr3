@@ -435,4 +435,4 @@ Here is a wiring diagram of my circuit.
 I used [Tinkercad](https://www.tinkercad.com/) to make the diagram. The DC motor is a replacement for the stepper motor and the slide switch is a replacement for the limit switch because Tinkercad does not have them.
 
 ### Reflection
-This assignment was fairly easy becuse it built off the last one and used parts I was familiar with. The way you check for if the photointerrupter is interrupted is the same as any input such as the rotary encoder's button. I didn't need much help for this but something to remember is to always check that your LCD setup uses the correct code because it can be different for separate LCDs.
+This assignment was a litte tricky because I hadn't used a stepper motor and some of the instructions were a little unclear. I used the slides and asked for help when I need it, but experimenting was the most helpful strategy. The main thing I strugled with was figuring out how to make the motor move in different directions and continuously but everything else was pretty easy after that.
