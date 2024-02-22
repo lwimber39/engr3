@@ -469,4 +469,4 @@ Here is a wiring diagram of my circuit.
 I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
 
 ### Reflection
-This assignment was a litte tricky because I hadn't used a stepper motor and some of the instructions were a little unclear. I used the slides and asked for help when I need it, but experimenting was the most helpful strategy. The main thing I strugled with was figuring out how to make the motor move in different directions and continuously but everything else was pretty easy after that.
+This assignment was really easy because it was just an output changing based on an input. It did slightly build off of previous assignments with how you have to check for signals from your input and turning on the neopixel but these are very simple. I didn't need any help for this and the only slightly troubling thing was accidentally switching what I printed for on and off.
