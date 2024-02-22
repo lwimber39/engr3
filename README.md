@@ -442,24 +442,18 @@ This assignment was a litte tricky because I hadn't used a stepper motor and som
 ### Description & Code Snippets
   The goal of this assignment was to get the neopixel to be either red or greem depending on whether the infared sensor is blocked or not respectively.
 
-Make sure to define run_motor before using it like this:
+Make sure to properly check for if your sensor in interrupted like this:
 ```python
-async def run_motor():
-    while(True):
-        for step in range(STEPS):
-            motor.onestep(style=stepper.DOUBLE)
-            time.sleep(DELAY)
-        await asyncio.sleep(0)
-
-async def main():
-    interrupt_task = asyncio.create_task(catch_pin_transitions(board.D2))
-    motor_task = asyncio.create_task(run_motor())
-    await asyncio.gather(interrupt_task, motor_task)
-asyncio.run(main())
+    if ir_sensor.value:
+        print("yes")
+        led[0] = (0, 255, 0)
+    if not ir_sensor.value:
+        print("no")
+        led[0] = (255, 0, 0)
 
 ```
 
-[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/StepperMotot.py)
+[**Link to my code**](https://github.com/lwimber39/engr3/blob/main/IRSensor#L12)
 
 
 ### Evidence!
