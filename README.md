@@ -470,3 +470,39 @@ I used [Tinkercad](https://www.tinkercad.com/) to make the diagram.
 
 ### Reflection
 This assignment was really easy because it was just an output changing based on an input. It did slightly build off of previous assignments with how you have to check for signals from your input and turning on the neopixel but these are very simple. I didn't need any help for this and the only slightly troubling thing was accidentally switching what I printed for on and off.
+
+## Onshape_Assignment_Robot_Gripper
+
+### Assignment Description
+
+In this assignment I used my CAD knowledge to create and assemble a functioning robot gripper.
+
+### Evidence
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/d237dd6b-61ad-4c78-b25e-b59c906599ba)
+
+These are the pliers from one of the top corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/ef0f0ddf-3eaf-4cc1-ac5b-eaed99507bb6)
+
+These are the pliers from one of the bottom corners.
+
+![image](https://github.com/lwimber39/engr3/assets/143545399/5cd14cb7-b8a6-4dc4-ac94-e3eb773b0da1)
+
+This shows the offset I used for the mate between the top handle and the screw.
+
+![ezgif com-video-to-gif-converter (3)](https://github.com/lwimber39/engr3/assets/143545399/a638096a-7e9a-4a79-8efe-8290b33feef8)
+
+This is a gif of the gripper opening and closing.
+
+I used [ezgif](https://ezgif.com/) to make the gif.
+
+### Part Link 
+
+[Link to my Onshape document](https://cvilleschools.onshape.com/documents/33f3ba19a5a1d50c2eb84db9/w/c9efc5b03be6e90789bf88df/e/7c4e5a729625516c68c3b841?renderMode=0&uiState=656a45fedb4dd143170b2751).
+
+### Reflection
+
+This assignment was pretty easy overall because it was only in an assembly. It was a little difficult because I am not super used to the types of mates but it was nothing very complicated. One issue was with the parallel mate because some things can be parallel in multiple positions so you should keep in mind that you may have to move the parts to be in a position close to where you want it before you do the mate.
+
+&nbsp;
