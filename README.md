@@ -479,17 +479,17 @@ In this assignment I used my CAD knowledge to create and assemble a functioning 
 
 ### Evidence
 
-![image](https://github.com/lwimber39/engr3/assets/143545399/d237dd6b-61ad-4c78-b25e-b59c906599ba)
+![image](https://github.com/lwimber39/engr3/assets/143545399/82901f29-024f-4af2-8506-1b50342816f3)
 
-These are the pliers from one of the top corners.
+This is the gripper from one of the top corners.
 
-![image](https://github.com/lwimber39/engr3/assets/143545399/ef0f0ddf-3eaf-4cc1-ac5b-eaed99507bb6)
+![image](https://github.com/lwimber39/engr3/assets/143545399/3fde27ea-2dd5-4a57-8f01-a4334f6ff341)
 
-These are the pliers from one of the bottom corners.
+This is the gripper from one of the bottom corners.
 
-![image](https://github.com/lwimber39/engr3/assets/143545399/5cd14cb7-b8a6-4dc4-ac94-e3eb773b0da1)
+![image](https://github.com/lwimber39/engr3/assets/143545399/0b28241d-6f37-417a-899a-555e9aa196f1)
 
-This shows the offset I used for the mate between the top handle and the screw.
+This is a Bill of Materials for the gripper.
 
 ![ezgif com-video-to-gif-converter (3)](https://github.com/lwimber39/engr3/assets/143545399/a638096a-7e9a-4a79-8efe-8290b33feef8)
 
@@ -503,6 +503,6 @@ I used [ezgif](https://ezgif.com/) to make the gif.
 
 ### Reflection
 
-This assignment was pretty easy overall because it was only in an assembly. It was a little difficult because I am not super used to the types of mates but it was nothing very complicated. One issue was with the parallel mate because some things can be parallel in multiple positions so you should keep in mind that you may have to move the parts to be in a position close to where you want it before you do the mate.
+This assignment was somewhat tricky but still surprisingly easy. I used the proveded images to estimate scale knowing that the connecters were 3 mm thick. I thought there were issues with parts being too long but this can be solved by not joining everything until you put it in an assembly.
 
 &nbsp;
